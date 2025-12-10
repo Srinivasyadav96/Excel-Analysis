@@ -27,3 +27,5 @@ Excel formulas: COUNTIF, COUNTIFS, AVERAGEIFS, logical categorization
 Data Cleaning & Categorization
 
 Summary tables and KPI extraction
+
+This project uses the Dataset { https://www.kaggle.com/datasets/haseebindata/student-performance-predictions } from Kaggle.
